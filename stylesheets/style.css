@@ -1,0 +1,5 @@
+@import "reset.css";/* сбрoc настроек браузера */
+@import "content.css"; /* контент / содержимое  */
+@import "responsive.css";/* адаптивность */
+@import "js.js";
+@import "jquery-3.6.0.js";
